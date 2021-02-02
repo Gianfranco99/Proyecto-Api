@@ -1,0 +1,20 @@
+
+.barra{
+border: 2px solid gainsboro;
+border-radius: 4px;
+}
+
+.boton{
+ margin-left: .3em;
+ background-image: linear-gradient(black,white);
+ border: 2px solid black;
+ border-radius: 5px;
+}
+
+.boton:hover{
+    background-image: linear-gradient(white,black);
+}
+
+.boton:active{
+    transform:scale(.8);
+}
