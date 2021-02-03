@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.040ba3bf.chunk.css",
+    "main.js": "/static/js/main.35e96931.chunk.js",
+    "main.js.map": "/static/js/main.35e96931.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca0f29c7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca0f29c7.js.map",
+    "static/js/2.8c7b534a.chunk.js": "/static/js/2.8c7b534a.chunk.js",
+    "static/js/2.8c7b534a.chunk.js.map": "/static/js/2.8c7b534a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dfad73fb05c5bd39e6629acaf0ed699b.js": "/precache-manifest.dfad73fb05c5bd39e6629acaf0ed699b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.040ba3bf.chunk.css.map": "/static/css/main.040ba3bf.chunk.css.map",
+    "static/js/2.8c7b534a.chunk.js.LICENSE.txt": "/static/js/2.8c7b534a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/nueva zelanda.e48264fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca0f29c7.js",
+    "static/js/2.8c7b534a.chunk.js",
+    "static/css/main.040ba3bf.chunk.css",
+    "static/js/main.35e96931.chunk.js"
+  ]
+}
