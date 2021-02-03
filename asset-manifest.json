@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Weather-Api/static/css/main.c04997d2.chunk.css",
-    "main.js": "/Weather-Api/static/js/main.f024a3d5.chunk.js",
-    "main.js.map": "/Weather-Api/static/js/main.f024a3d5.chunk.js.map",
-    "runtime-main.js": "/Weather-Api/static/js/runtime-main.9c658820.js",
-    "runtime-main.js.map": "/Weather-Api/static/js/runtime-main.9c658820.js.map",
-    "static/js/2.8c7b534a.chunk.js": "/Weather-Api/static/js/2.8c7b534a.chunk.js",
-    "static/js/2.8c7b534a.chunk.js.map": "/Weather-Api/static/js/2.8c7b534a.chunk.js.map",
-    "index.html": "/Weather-Api/index.html",
-    "precache-manifest.896388e6d800cb2b49848aea6e899b45.js": "/Weather-Api/precache-manifest.896388e6d800cb2b49848aea6e899b45.js",
-    "service-worker.js": "/Weather-Api/service-worker.js",
-    "static/css/main.c04997d2.chunk.css.map": "/Weather-Api/static/css/main.c04997d2.chunk.css.map",
-    "static/js/2.8c7b534a.chunk.js.LICENSE.txt": "/Weather-Api/static/js/2.8c7b534a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Weather-Api/static/media/nueva zelanda.e48264fb.jpg"
+    "main.css": "/Proyecto-Api/static/css/main.d7fe00b3.chunk.css",
+    "main.js": "/Proyecto-Api/static/js/main.dc335481.chunk.js",
+    "main.js.map": "/Proyecto-Api/static/js/main.dc335481.chunk.js.map",
+    "runtime-main.js": "/Proyecto-Api/static/js/runtime-main.1898b6f9.js",
+    "runtime-main.js.map": "/Proyecto-Api/static/js/runtime-main.1898b6f9.js.map",
+    "static/js/2.8c7b534a.chunk.js": "/Proyecto-Api/static/js/2.8c7b534a.chunk.js",
+    "static/js/2.8c7b534a.chunk.js.map": "/Proyecto-Api/static/js/2.8c7b534a.chunk.js.map",
+    "index.html": "/Proyecto-Api/index.html",
+    "precache-manifest.263b72a10cf9ef27dbd6108bc9958e3f.js": "/Proyecto-Api/precache-manifest.263b72a10cf9ef27dbd6108bc9958e3f.js",
+    "service-worker.js": "/Proyecto-Api/service-worker.js",
+    "static/css/main.d7fe00b3.chunk.css.map": "/Proyecto-Api/static/css/main.d7fe00b3.chunk.css.map",
+    "static/js/2.8c7b534a.chunk.js.LICENSE.txt": "/Proyecto-Api/static/js/2.8c7b534a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Proyecto-Api/static/media/nueva zelanda.e48264fb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c658820.js",
+    "static/js/runtime-main.1898b6f9.js",
     "static/js/2.8c7b534a.chunk.js",
-    "static/css/main.c04997d2.chunk.css",
-    "static/js/main.f024a3d5.chunk.js"
+    "static/css/main.d7fe00b3.chunk.css",
+    "static/js/main.dc335481.chunk.js"
   ]
 }
