@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "914e9710363ff134f38329d94eb887ef",
+    "revision": "1fb1a3208c76e1f1946a13e53143149b",
     "url": "/Proyecto-Api/index.html"
   },
   {
-    "revision": "9f401cc4e0f15acf333d",
-    "url": "/Proyecto-Api/static/css/main.3034674e.chunk.css"
+    "revision": "cd0f17bf8d2fd9564969",
+    "url": "/Proyecto-Api/static/css/main.a3bfc0d1.chunk.css"
   },
   {
     "revision": "336d61c078bfb1077665",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Proyecto-Api/static/js/2.8c7b534a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9f401cc4e0f15acf333d",
+    "revision": "cd0f17bf8d2fd9564969",
     "url": "/Proyecto-Api/static/js/main.dc335481.chunk.js"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Proyecto-Api/static/media/ciudad1.fbec24a9.jpg"
   },
   {
-    "revision": "8694e993451faf60bae9e6fc11f9f0a4",
-    "url": "/Proyecto-Api/static/media/nueva-zelanda.8694e993.jpg"
+    "revision": "47a8dace5163831d9de8ab94f2b2b4ba",
+    "url": "/Proyecto-Api/static/media/nueva-zelanda.47a8dace.jpg"
   }
 ]);

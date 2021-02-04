@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Proyecto-Api/static/css/main.3034674e.chunk.css",
+    "main.css": "/Proyecto-Api/static/css/main.a3bfc0d1.chunk.css",
     "main.js": "/Proyecto-Api/static/js/main.dc335481.chunk.js",
     "main.js.map": "/Proyecto-Api/static/js/main.dc335481.chunk.js.map",
     "runtime-main.js": "/Proyecto-Api/static/js/runtime-main.1898b6f9.js",
@@ -8,16 +8,16 @@
     "static/js/2.8c7b534a.chunk.js": "/Proyecto-Api/static/js/2.8c7b534a.chunk.js",
     "static/js/2.8c7b534a.chunk.js.map": "/Proyecto-Api/static/js/2.8c7b534a.chunk.js.map",
     "index.html": "/Proyecto-Api/index.html",
-    "precache-manifest.11e92cfa6e6d50739c1fbecdee1de137.js": "/Proyecto-Api/precache-manifest.11e92cfa6e6d50739c1fbecdee1de137.js",
+    "precache-manifest.d1bfdb5595f56620385c72b754be6322.js": "/Proyecto-Api/precache-manifest.d1bfdb5595f56620385c72b754be6322.js",
     "service-worker.js": "/Proyecto-Api/service-worker.js",
-    "static/css/main.3034674e.chunk.css.map": "/Proyecto-Api/static/css/main.3034674e.chunk.css.map",
+    "static/css/main.a3bfc0d1.chunk.css.map": "/Proyecto-Api/static/css/main.a3bfc0d1.chunk.css.map",
     "static/js/2.8c7b534a.chunk.js.LICENSE.txt": "/Proyecto-Api/static/js/2.8c7b534a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Proyecto-Api/static/media/nueva-zelanda.8694e993.jpg"
+    "static/media/App.css": "/Proyecto-Api/static/media/nueva-zelanda.47a8dace.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1898b6f9.js",
     "static/js/2.8c7b534a.chunk.js",
-    "static/css/main.3034674e.chunk.css",
+    "static/css/main.a3bfc0d1.chunk.css",
     "static/js/main.dc335481.chunk.js"
   ]
 }
